@@ -44,111 +44,111 @@ const locaisTuristicos = {
         {
             nome: "Ilha de Inhambane",
             descricao: "Conhecida pela sua história rica e belas praias.",
-            link: "https://example.com/ilha-inhambane"
+            link: "https://www.visitmozambique.gov.mz/onde-ir/provincias/inhambane/"
         },
         {
             nome: "Praia da Barra",
             descricao: "Uma praia tranquila, ideal para relaxar e aproveitar o sol.",
-            link: "https://example.com/praia-barra"
+            link: "https://www.tripadvisor.com.br/Attraction_Review-g3652237-d480471-Reviews-Barra_Beach-Inhambane_Province.html"
         }
     ],
     "Sofala": [
         {
             nome: "Beira",
             descricao: "A segunda maior cidade de Moçambique, com uma importante localização portuária.",
-            link: "https://example.com/beira"
+            link: "https://www.diarioeconomico.co.mz/2022/07/23/lifestyle/cidade-da-beira-onde-ir-e-o-que-fazer/"
         },
         {
             nome: "Reserva Nacional de Gorongosa",
             descricao: "Um dos parques mais biodiversos do mundo, oferecendo safáris e paisagens espetaculares.",
-            link: "https://example.com/gorongosa"
+            link: "https://www.visitmozambique.gov.mz/onde-ir/parques-e-reservas/parque-nacional-de-gorongosa/"
         }
     ],
     "Manica": [
         {
             nome: "Chimoio",
             descricao: "Capital da província de Manica, com uma rica herança cultural.",
-            link: "https://example.com/chimoio"
+            link: "https://www.tripadvisor.com.br/Tourism-g641706-Chimoio_Manica_Province-Vacations.html"
         },
         {
             nome: "Cascatas de Vanduzi",
             descricao: "Belas quedas d'água cercadas pela natureza exuberante.",
-            link: "https://example.com/cascatas-vanduzi"
+            link: "https://pt.wikipedia.org/wiki/Vanduzi_(distrito)"
         },
         {
             nome: "Cabeça do Velho",
             descricao: "Formação rochosa natural em forma de rosto humano, famosa em Manica.",
-            link: "https://example.com/cabeca-do-velho"
+            link: "https://www.visitmozambique.gov.mz/manica/"
         }
     ],
     "Zambezia": [
         {
-            nome: "Ilha de Moçambique",
-            descricao: "Uma ilha histórica com arquitetura colonial e praias paradisíacas.",
-            link: "https://example.com/ilha-de-mocambique"
+            nome: "Monte Namuli",
+            descricao: "A montanha mais alta da Zambézia, um paraíso para os amantes de caminhadas e alpinismo.",
+            link: "https://www.tripadvisor.com.br/Attraction_Review-g7710305-d7203886-Reviews-Mount_Namuli-Gurue_Zambezia_Province.html"
         },
         {
-            nome: "Cataratas de Mua",
-            descricao: "Quedas d'água impressionantes que oferecem vistas panorâmicas e trilhas de caminhada.",
-            link: "https://example.com/cataratas-mua"
+            nome: "Praia de Zalala",
+            descricao: "Uma bela praia com vastas areias brancas, um destino turístico popular.",
+            link: "https://www.tripadvisor.com.br/Attraction_Review-g1137963-d3172283-Reviews-Zalala_Beach-Quelimane_Zambezia_Province.html"
         }
     ],
     "Tete": [
         {
             nome: "Lago Cahora Bassa",
             descricao: "Uma das maiores represas da África, conhecida por suas paisagens deslumbrantes e vida aquática.",
-            link: "https://example.com/cahora-bassa"
+            link: "https://www.tripadvisor.com.br/Attraction_Review-g3652246-d479158-Reviews-Lago_de_Cahora_Bassa-Tete_Province.html"
         },
         {
             nome: "Cidade de Tete",
             descricao: "Uma cidade histórica e importante centro econômico na região.",
-            link: "https://example.com/tete"
+            link: "https://www.tripadvisor.com.br/Tourism-g677702-Tete_Tete_Province-Vacations.html"
         }
     ],
     "Nampula": [
         {
             nome: "Ilha de Moçambique",
             descricao: "Um Patrimônio Mundial da UNESCO, famosa por sua rica história e cultura.",
-            link: "https://example.com/ilha-mocambique"
+            link: "https://www.visitmozambique.gov.mz/onde-ir/ilhas/ilha-de-mocambique/"
         },
         {
             nome: "Catedral de Nampula",
             descricao: "Uma imponente catedral católica situada no coração de Nampula.",
-            link: "https://example.com/catedral-nampula"
+            link: "https://www.tripadvisor.com.br/Attraction_Review-g1602169-d2645613-Reviews-Catedral_de_Nossa_Senhora_da_Fatima-Nampula_Nampula_Province.html"
         },
         {
             nome: "Museu Nacional de Etnologia",
             descricao: "Um museu dedicado à cultura e etnografia dos povos moçambicanos.",
-            link: "https://example.com/museu-etnologia"
+            link: "https://www.tripadvisor.com.br/Attraction_Review-g1602169-d2645670-Reviews-Mozambique_National_Ethnographic_Museum-Nampula_Nampula_Province.html"
         }
     ],
     "Cabo Delgado": [
         {
             nome: "Ilha do Ibo",
             descricao: "Uma das ilhas do arquipélago das Quirimbas, com uma rica herança cultural e histórica.",
-            link: "https://example.com/ilha-do-ibo"
+            link: "https://www.visitmozambique.gov.mz/onde-ir/ilhas/ilha-do-ibo-2/"
         },
         {
             nome: "Praias de Pemba",
             descricao: "Belas praias de areia branca com águas cristalinas, perfeitas para mergulho.",
-            link: "https://example.com/praias-pemba"
+            link: "https://www.tripadvisor.com.br/Tourism-g298356-Pemba_Cabo_Delgado_Province-Vacations.html"
         },
         {
             nome: "Parque Nacional das Quirimbas",
             descricao: "Uma reserva natural que inclui várias ilhas, rica em biodiversidade marinha.",
-            link: "https://example.com/quirimbas"
+            link: "https://www.visitmozambique.gov.mz/onde-ir/parques-e-reservas/parque-nacional-das-quirimbas/"
         }
     ],
     "Niassa": [
         {
             nome: "Lago Niassa",
             descricao: "O terceiro maior lago da África, compartilhado entre Moçambique, Tanzânia e Malawi, com águas cristalinas e rica vida aquática.",
-            link: "https://example.com/lago-niassa"
+            link: "https://www.dw.com/pt-002/lago-niassa-j%C3%B3ia-ambiental-e-fonte-de-sustento-para-as-popula%C3%A7%C3%B5es/g-68900716"
         },
         {
             nome: "Reserva do Niassa",
             descricao: "Uma vasta área de conservação com uma rica vida selvagem, incluindo elefantes e leões.",
-            link: "https://example.com/reserva-niassa"
+            link: "https://www.anac.gov.mz/parques/niassa/"
         }
     ]
 };
