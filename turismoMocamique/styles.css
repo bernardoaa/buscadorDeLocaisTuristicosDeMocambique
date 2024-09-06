@@ -1,0 +1,122 @@
+/* Define uma paleta de cores */
+:root {
+    --cor-fundo: #f0f4f8;
+    --cor-primaria: #2c3e50;
+    --cor-secundaria: #3498db;
+    --cor-texto: #333;
+    --cor-rodape: #2c3e50;
+}
+
+/* Estilização do corpo da página */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+/* Centralizar e estilizar o cabeçalho */
+header {
+    background-color: var(--cor-primaria);
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Estilização da área principal */
+main {
+    text-align: center;
+    padding: 20px;
+    max-width: 800px;
+    width: 100%;
+}
+
+/* Estilo do formulário de pesquisa */
+#pesquisa {
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+select {
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid var(--cor-secundaria);
+}
+
+/* Estilo dos resultados */
+#resultados {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: var(--cor-primaria);
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    font-size: 18px;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+/* Estilo do rodapé */
+footer {
+    background-color: var(--cor-rodape);
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    bottom: 0;
+}
+
+
+/* Estilização da lista de locais turísticos */
+ul li {
+    font-size: 18px;
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+ul li strong {
+    display: block;
+    font-size: 20px;
+    color: var(--cor-primaria);
+}
+
+ul li p {
+    margin: 10px 0;
+    color: #555;
+}
+
+ul li a {
+    color: var(--cor-secundaria);
+    text-decoration: none;
+}
+
+ul li a:hover {
+    text-decoration: underline;
+}
+    
